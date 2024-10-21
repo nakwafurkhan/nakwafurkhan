@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2 align="center">About Me</h2>
 <p align="center">
   I'm Nakwafurkhan, a passionate full-stack developer and student at Kalvium, driven by a love for creating impactful and innovative web applications. My expertise spans both frontend and backend development, with a particular focus on building sleek, responsive user interfaces. I’m currently on a journey to master the latest technologies and push the boundaries of web design.
