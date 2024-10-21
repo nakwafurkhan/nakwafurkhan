@@ -13,16 +13,6 @@
   🌱 I’m currently enhancing my skills in <strong>React</strong> and backend development using <strong>Node.js</strong>, while also exploring deeper into UI/UX design to create more intuitive and user-friendly applications.
 </p>
 
-<h2 align="center">Collaboration</h2>
-<p align="center">
-  👯 I’m open to collaborating on exciting frontend projects, especially those that require pushing the boundaries of creativity in UI/UX design. If you’re working on something bold and innovative, let’s connect!
-</p>
-
-<h2 align="center">Help & Interests</h2>
-<p align="center">
-  🤔 I’m always looking for tips and guidance on how to become a better website designer. I’m passionate about learning new techniques and best practices to combine aesthetic appeal with functionality.
-</p>
-
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
